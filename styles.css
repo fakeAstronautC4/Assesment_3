@@ -1,0 +1,118 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+h1{
+width: 50%;
+margin: auto;
+}
+#color{
+	background-color: yellow;
+	padding: 20px;
+	margin: 5px;
+}
+#ritual{
+	background-color: yellow;
+	padding: 20px;
+	margin: 5px;
+}
+#place{
+	background-color: yellow;
+	padding: 20px;
+	margin: 5px;
+}
+
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.careerGoals{
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	border-style: solid;
+	border-color: black;
+	border-radius: 3%;
+	color: rgb(0, 0, 0);
+	background-color: rgb(42, 206, 218);
+	font-weight: bold;
+	width: 30%;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	width: 675px;
+	background-color: aquamarine;
+	margin-right: 50%;
+	
+}
+
+
+
+.Interests{
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	border-style: solid;
+	border-color: black;
+	border-radius: 3%;
+	color: rgb(0, 0, 0);
+	background-color: rgb(13, 155, 165);
+	font-weight: bold;
+	width: 30%;
+}
+.skills{
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5%;
+	color: rgb(0, 0, 0);
+	background-color: rgb(8, 104, 110);
+	font-weight: bold;
+	width: 30%;
+	list-style: georgian;
+}
+
+.buttons{
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	background-color: blueviolet;
+	width: 480px;
+	margin: auto;
+
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
